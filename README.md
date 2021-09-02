@@ -2,9 +2,11 @@
 
 # **Mikey Pro**
 
-## [Style Guide](https://github.com/mikey-pro/style-guide) + [Theme](https://github.com/mikey-pro/theme)
+### [Style Guide](https://github.com/mikey-pro/style-guide) + [Theme](https://github.com/mikey-pro/theme)
 
 </div>
+
+## @mikey-pro/prettier-config
 
 ### Usage
 
