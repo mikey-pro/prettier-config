@@ -8,11 +8,13 @@
 
 </div>
 
-## @mikey-pro/prettier-config
+## **@mikey-pro/prettier-config**
 
-### Usage
+A preset Prettier configuration for use with the Mikey Pro style guide
 
-Install Prettier config:
+## Usage
+
+### Install
 
 ```shell
   npm i -D @mikey-pro/prettier-config
@@ -21,7 +23,7 @@ Install Prettier config:
 Extend to Prettier in `package.json`:
 
 ```json
-  {
-    "prettier": "@mikey-pro/prettier-config"
-  }
+{
+  "prettier": "@mikey-pro/prettier-config"
+}
 ```
