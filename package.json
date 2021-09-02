@@ -1,12 +1,12 @@
 {
   "name": "@mikey-pro/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Mikey Pro Prettier configuration",
   "peerDependencies": {
     "prettier": "^2.0"
   },
   "files": [
-    "index.cjs",
+    "index.js",
     "README.md",
     "LICENSE"
   ],
