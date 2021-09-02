@@ -2,8 +2,6 @@
 
 # **Mikey Pro**
 
-Lint and format code (the way Mikey likes it)
-
 ## [Style Guide](https://github.com/mikey-pro/style-guide) + [Theme](https://github.com/mikey-pro/theme)
 
 </div>
