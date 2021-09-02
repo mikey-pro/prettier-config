@@ -17,7 +17,7 @@ A preset Prettier configuration for use with the Mikey Pro style guide
 ### Install
 
 ```shell
-  npm i -D @mikey-pro/prettier-config
+npm i -D @mikey-pro/prettier-config
 ```
 
 ### Configure
