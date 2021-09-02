@@ -18,6 +18,8 @@ A preset Prettier configuration for use with the Mikey Pro style guide
 
 ```shell
 npm i -D @mikey-pro/prettier-config
+
+yarn add -D @mikey-pro/prettier-config
 ```
 
 ### Configure
