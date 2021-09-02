@@ -20,6 +20,8 @@ A preset Prettier configuration for use with the Mikey Pro style guide
   npm i -D @mikey-pro/prettier-config
 ```
 
+### Configure
+
 Extend to Prettier in `package.json`:
 
 ```json
