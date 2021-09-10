@@ -17,6 +17,32 @@
 
 A preset Prettier configuration for use with the Mikey Pro style guide
 
+<div>
+  <a href="https://www.npmjs.com/package/@mikey-pro/prettier-config"
+    ><img
+      src="https://img.shields.io/librariesio/release/npm/@mikey-pro/prettier-config?color=8fbe61&style=for-the-badge"
+      alt="Dependencies badge"
+      height="20px"
+  /></a>
+</div>
+<div>
+  <a href="https://www.npmjs.com/package/@mikey-pro/prettier-config"
+    ><img
+      src="https://img.shields.io/bundlephobia/min/@mikey-pro/prettier-config?color=9987d8&label=package%20size&logo=ok&style=for-the-badge"
+      alt="Package size badge"
+      height="20px"
+  /></a>
+</div>
+
+<div>
+  <a href="https://www.npmjs.com/package/@mikey-pro/prettier-config"
+    ><img
+      src="https://img.shields.io/npm/dw/@mikey-pro/prettier-config?color=5dacb7&style=for-the-badge"
+      alt="Downloads badge"
+      height="20px"
+  /></a>
+</div>
+
 ## Usage
 
 ### Install
