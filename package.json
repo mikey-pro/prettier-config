@@ -3,7 +3,7 @@
   "version": "1.0.5",
   "description": "Mikey Pro Prettier configuration",
   "peerDependencies": {
-    "prettier": "^2.0"
+    "prettier": "^2.4"
   },
   "files": [
     "index.js",
