@@ -15,7 +15,7 @@
 
 ## **@mikey-pro/prettier-config**
 
-A preset Prettier configuration for use with the Mikey Pro style guide
+A preset Prettier configuration
 
 <div>
   <a href="https://www.npmjs.com/package/@mikey-pro/prettier-config"
