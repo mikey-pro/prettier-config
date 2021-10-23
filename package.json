@@ -1,6 +1,6 @@
 {
   "name": "@mikey-pro/prettier-config",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Mikey Pro Prettier configuration",
   "dependencies": {
     "prettier": "^2.4"
