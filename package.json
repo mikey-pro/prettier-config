@@ -2,7 +2,7 @@
   "name": "@mikey-pro/prettier-config",
   "version": "1.0.7",
   "description": "Mikey Pro Prettier configuration",
-  "peerDependencies": {
+  "dependencies": {
     "prettier": "^2.4"
   },
   "files": [
