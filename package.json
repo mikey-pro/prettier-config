@@ -1,6 +1,6 @@
 {
   "name": "@mikey-pro/prettier-config",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Mikey Pro Prettier configuration",
   "main": "index.cjs",
   "dependencies": {
