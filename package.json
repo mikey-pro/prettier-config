@@ -2,11 +2,12 @@
   "name": "@mikey-pro/prettier-config",
   "version": "1.0.8",
   "description": "Mikey Pro Prettier configuration",
+  "main": "index.cjs",
   "dependencies": {
     "prettier": "^2.4"
   },
   "files": [
-    "index.js",
+    "index.cjs",
     "README.md",
     "LICENSE"
   ],
