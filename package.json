@@ -4,8 +4,7 @@
   "description": "Mikey Pro Prettier configuration",
   "main": "index.cjs",
   "dependencies": {
-    "prettier": "^2.4",
-    "prettier-plugin-svelte": "^2.4.0"
+    "prettier": "^2.4"
   },
   "files": [
     "index.cjs",
