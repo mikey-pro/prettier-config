@@ -6,4 +6,10 @@ module.exports = {
   trailingComma: 'all',
   bracketSpacing: true,
   proseWrap: 'always',
+  svelteSortOrder : "options-scripts-markup-styles",
+  svelteStrictMode: true,
+  svelteBracketNewLine: true,
+  svelteAllowShorthand: false,
+  svelteIndentScriptAndStyle: false
 };
+
