@@ -4,7 +4,7 @@
   "description": "Mikey Pro Prettier configuration",
   "main": "index.cjs",
   "peerDependencies": {
-    "prettier": ">= 2.5"
+    "prettier": ">=2.5"
   },
   "files": [
     "index.cjs",
