@@ -10,6 +10,7 @@ module.exports = {
   svelteStrictMode: true,
   svelteBracketNewLine: true,
   svelteAllowShorthand: false,
-  svelteIndentScriptAndStyle: false
+  svelteIndentScriptAndStyle: false,
+  vueIndentScriptAndStyle: false
 };
 
