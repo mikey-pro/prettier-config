@@ -3,9 +3,6 @@
   "version": "1.1.0",
   "description": "Mikey Pro Prettier configuration",
   "main": "index.js",
-  "peerDependencies": {
-    "prettier": ">=2.5"
-  },
   "files": [
     "index.js",
     "README.md",
